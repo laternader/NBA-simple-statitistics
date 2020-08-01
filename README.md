@@ -6,11 +6,12 @@ This was a homework assignment provided by Kirill Eremenko and Super Data Scienc
 https://www.superdatascience.com
 
 The data was also provided by Super Data Science and other online sources provided below:
-Kevin Durant: 2005, 2006 College Data
-Kevin Durant: 2005 Proxied with 2006 Data
-Derrick Rose: 2005, 2006 Proxied with 2007 Data
-Derrick Rose: 2007 College Data
-Derrick Rose: 2012 DNP
+
+- Kevin Durant: 2005, 2006 College Data
+- Kevin Durant: 2005 Proxied with 2006 Data
+- Derrick Rose: 2005, 2006 Proxied with 2007 Data
+- Derrick Rose: 2007 College Data
+- Derrick Rose: 2012 DNP
 
 Further information about source of data is in the link provided.
 https://www.superdatascience.com/pages/rcourse
